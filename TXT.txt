@@ -1,0 +1,1 @@
+Person{name= Bohdan ,surname= Kornienko ,age= 29 ,height= 197 ,weight= 90 }
